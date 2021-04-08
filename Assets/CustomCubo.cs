@@ -18,6 +18,6 @@ public class CustomCubo : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Esto es un comentario para ver como cambia.
     }
 }
